@@ -24,7 +24,6 @@ The modifications incorporate a four-state mechanism representing different stag
 
 If you use or build upon this code in your research, or if this code is used for any academic work, publication, or research, proper attribution and citation of the paper is **required**. Please cite the paper in any related publications, presentations, or derived works.
 
-**Gulec, F., & Eckford, A. W., "A Stochastic Biofilm Disruption Model based on Quorum Sensing Mimickers," IEEE Transactions on Molecular, Biological and Multi-Scale Communications, vol. 9, no. 3, pp. 346-350, 2023. Link: https://github.com/fatihguelec/Stochastic-Biofilm-Disruption-Model-Based-on-Quorum-Sensing-Mimickers. 
-Arxiv Link: [![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/2301.13015v2)
-**
+**Gulec, F., & Eckford, A. W., "A Stochastic Biofilm Disruption Model based on Quorum Sensing Mimickers," IEEE Transactions on Molecular, Biological and Multi-Scale Communications, vol. 9, no. 3, pp. 346-350, 2023. Link: https://ieeexplore.ieee.org/abstract/document/10173543. 
+Arxiv Link: [![arXiv](https://img.shields.io/badge/arXiv-2301.13015v2-b31b1b.svg)](https://arxiv.org/abs/2301.13015v2)**
 
